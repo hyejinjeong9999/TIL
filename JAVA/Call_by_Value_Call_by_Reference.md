@@ -35,7 +35,7 @@
 
 값을 서로 바꾸는 `swap` 메서드로 알아보기
 
-### Primitive Type (참조타입)
+### Primitive Type (원시타입)
 
 ```java
 public class CallByValue {
@@ -66,7 +66,7 @@ public class CallByValue {
 
 
 
-### Primitive Type (원시자료형)
+### Reference Type (참조자료형)
 
 ```java
 public class CallByValue {
@@ -96,7 +96,7 @@ public class CallByValue {
 
 > 결과 
 >  호출 전 : a = 10 b = 20
->  호출 후 : a = 20 b = 20
+>  호출 후 : a = 20 b = 10
 
 #### 값이 바뀌었는데 왜 Call By Reference가 아닐까?
 
