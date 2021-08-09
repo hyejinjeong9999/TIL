@@ -7,3 +7,9 @@
 * [절차적 프로그래밍, 객체지향 프로그래밍, 함수형 프로그래밍](https://github.com/hyejinjeong9999/TIL/blob/main/JAVA/Procedure_Object_Oriented_Functional_Programming.md)
 * [객체지향 프로그래밍의 특징](https://github.com/hyejinjeong9999/TIL/blob/main/JAVA/Object_Oriented_Programming.md)
 * [메모리구조와 변수](https://github.com/hyejinjeong9999/TIL/blob/main/JAVA/memory_structure_variable.md)
+
+
+
+# CS
+
+* [동기와 비동기 블로킹과 논블로킹](https://github.com/hyejinjeong9999/TIL/blob/main/CS/sync_asynk_blocking_nonblocking.md)
