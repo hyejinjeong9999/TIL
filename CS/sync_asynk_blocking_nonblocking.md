@@ -55,11 +55,11 @@
 
 # ✨조합
 
-![blocking_synch_combi](../img/blocking_synch_combi.png)
+<img src="../img/blocking_synch_combi.png" alt="blocking_synch_combi" style="zoom:33%;" />
 
 ##  1. blocking + Synchronous
 
-![blocking_synch](../img/blocking_synch.png)
+<img src="../img/blocking_synch.png" alt="blocking_synch" style="zoom:25%;" />
 
 * 결과가 처리되서 나올 때까지 기다렸다가 return값으로 결과 전달
 * ex) *전화를 걸어서  바로 즉답*
@@ -68,7 +68,7 @@
 
 ##  2. blocking + Asynchronous
 
-![blocking_asynch](../img/blocking_asynch.png)
+<img src="../img/blocking_asynch.png" alt="blocking_asynch" style="zoom:25%;" />
 
 * 호출을 하는데 다른 일을 하지 않고 기다리고 있다.
 * *ex) 이메일을 보내놓고 답변이 올때까지 다른 일 안하고 기다리는 것*
@@ -79,7 +79,7 @@
 
 ## 3. non-blocking + Synchronous
 
-![nonblocking_synch](../img/nonblocking_synch.png)
+<img src="../img/nonblocking_synch.png" alt="nonblocking_synch" style="zoom:25%;" />
 
 * 호출 후 결과를 계속 확인하면서 다른 일을 한다.
 * 결과가 생길 때까지 확인 후 결과가 있으면 return
@@ -89,7 +89,7 @@
 
 ## 4. non-blocking + Asynchronous
 
-![nonblocking_asynch](../img/nonblocking_asynch.png)
+<img src="../img/nonblocking_asynch.png" alt="nonblocking_asynch" style="zoom: 25%;" />
 
 * 호출 후 결과가 나올 때까지 다른 일을 한다
 * 작업 요청을 받아서 별도의 프로세서에서 진행하게 하고 바로 return(작업 끝)한다.
