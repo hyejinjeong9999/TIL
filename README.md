@@ -13,3 +13,6 @@
 # CS
 
 * [동기와 비동기 블로킹과 논블로킹](https://github.com/hyejinjeong9999/TIL/blob/main/CS/sync_asynk_blocking_nonblocking.md)
+
+# OS
+* [프로세스와 쓰레드]https://github.com/hyejinjeong9999/TIL/blob/main/OS/process_thread.md
