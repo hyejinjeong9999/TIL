@@ -16,3 +16,5 @@
 
 # OS
 * [프로세스와 쓰레드](https://github.com/hyejinjeong9999/TIL/blob/main/OS/process_thread.md)
+* [컴파일러와 인터프리터]
+* (https://github.com/hyejinjeong9999/TIL/blob/main/OS/compiler_interpreter.md)
